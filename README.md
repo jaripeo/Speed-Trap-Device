@@ -20,18 +20,30 @@ A customizable speed measurement system designed for accurately detecting and di
 # Hardware Components
 
 • LED light sources
+
 • Phototransistor detectors
+
 • LCD screen
+
 • Dial-type speedometer
+
 • RGB LEDs
+
 • Buzzer
+
 • Knob for threshold adjustment
+
 • RS-232 serial interface
 
 # Usage
 
 • Power on the device.
+
 • Adjust the speed threshold using the knob.
+
 • Place objects between the sensors to measure speed.
+
 • View real-time speed data on the LCD and respond to any alerts triggered by the buzzer.
+
 • Monitor speed data remotely via the RS-232 interface and compare measurements using the RGB LEDs.
+
